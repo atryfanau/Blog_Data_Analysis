@@ -6,7 +6,7 @@ If you want to run this code on your computer, I would have to install Anaconda 
 
 Here are the instructions after you have both of them installed:
 
-1. Download the /Source folder on your computer
+1. Download the *Blog_analysis.ipynb* and *hacker_news.csv* files on your computer
 2. Find the downloaded Source folder in Finder (MacOS) or My Computer (Windows)
 3. Right click on folder and open it in terminal
 4. Run the command in terminal 
